@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Go and Microservices**
 
-- 💬 Ask me about **Django,React,NestJS,TypeScript**
+- 💬 Ask me about **Python/Django Ecosystem, React/React Native, NestJS, TypeScript**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
